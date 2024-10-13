@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science and other data driven fields
 - 🌱 I’m currently learning data science / ML
 - 💞️ I’m looking to collaborate on anything that builds new skills!
-- 📫 How to reach me info@saxsql.com
+- 📫 How to reach me ferry@saxsql.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love jazz!
 
